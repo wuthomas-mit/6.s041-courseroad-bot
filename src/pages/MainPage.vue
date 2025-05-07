@@ -273,6 +273,22 @@
         </v-flex>
       </v-layout>
     </v-footer>
+    
+    <!-- Chatbot Component -->
+    <chat-bot v-if="showChatbot" @close="showChatbot = false" />
+
+    <v-btn
+      v-if="!showChatbot"
+      fab
+      color="primary"
+      fixed
+      right
+      bottom
+      class="chat-button"
+      @click="showChatbot = true"
+    >
+      <v-icon>mdi-message-text</v-icon>
+    </v-btn>
   </v-app>
 </template>
 
@@ -292,6 +308,7 @@ import ClassInfo from "./../components/ClassInfo.vue";
 import ImportExport from "./../components/ImportExport.vue";
 import ThemeToggler from "./../components/ThemeToggler.vue";
 import About from "./../components/About.vue";
+import ChatBot from "./../components/ChatBot.vue";
 
 const DATE_FORMAT = "YYYY-MM-DDTHH:mm:ss.SSS000Z";
 
@@ -307,6 +324,7 @@ export default {
     "import-export": ImportExport,
     "theme-toggler": ThemeToggler,
     about: About,
+    "chat-bot": ChatBot,
   },
   data: function () {
     return {
@@ -329,6 +347,7 @@ export default {
       dismissedCookies: false,
       searchOpen: false,
       updatingFulfillment: false,
+      showChatbot: false,
       showMobile:
         ["mobile", "tabvar"].indexOf(
           new UAParser(navigator.userAgent).getDevice().type,
@@ -658,5 +677,12 @@ export default {
 } */
 .expanded-search {
   max-width: 22em;
+}
+
+.chat-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
 }
 </style>

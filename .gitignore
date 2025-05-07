@@ -120,3 +120,5 @@ env.sh
 
 # Local .env files
 *.local
+
+.env

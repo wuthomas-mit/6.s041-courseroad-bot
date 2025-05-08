@@ -1,0 +1,2641 @@
+1/20
+6-1
+6-2
+Electrical Science and Engineering
+Electrical Engineering and Computer Science
+6-3 Computer Science and Engineering
+6-4 Artificial Intelligence and Decision Making
+6-5
+Electrical Engineering with Computing
+6-7 Computer Science and Molecular Biology
+6-9 Computation and Cognition
+6-14 Computer Science, Economics, and Data Science
+MEng Masters of Engineering
+MEng (6-7) Masters of Engineering
+MEng (6-14) Masters of Engineering
+Notes:
+Shows the degree requirements for Spring 2025.
+Each completed subject can only be used to satisfy at most one required subject.
+A subject is colored grey if not offered this academic year.
+6-3 Computer Science and Engineering
+Required subjects:
+Two programming skills subjects:
+One of
+One of
+6.100A [6.0001] 6.100L [6.000L]
+,
+6.1903 6.1904
+,
+One discrete math subject:
+6.1200 [6.042]
+One 6-3 math subject:
+18.05
+18.06
+18.C06
+6.3700 [6.041]
+6.3800 [6.008]
+6.C06
+Three foundation subjects:
+6.1010 [6.009]
+6.1210 [6.006]
+6.1910 [6.004]
+Three header subjects:
+6.1020 [6.031]
+One of
+6.1800 [6.033]
+6.1400 [6.045] 6.1220 [6.046]
+,
+Six elective subjects:
+CS Track
+Two additional from a
+Two additional from a different
+Two additional from
+EECS
+list
+AI+D, CS, or EE Track
+Additional constraints:
+At least two of your completed subjects must be from the
+At least two of your completed subjects must be from the
+At least one of your completed subjects must be from the
+AUS2
+CIM2
+II
+list
+list
+list
+Notes:
+Starting in Fall 2023, the following subjects can be petitioned as substitutions for the 6.1800[6.033]
+systems header requirement:
+6.1810[6.039] Operating Systems Engineering (U, Fall)
+6.5830[6.830] Database Systems (G, Fall)
+6.5831[6.814] Database Systems (U, Fall)
+6.5660[6.858] Computer Systems Security (G, Spring)
+6.5840[6.824] Distributed Computer Systems Engineering (G, Spring)
+Note that none of these alternative subjects are CI-M, so you will need to satisfy the CI-M additional
+constraint with other EECS department CI-Ms.
+6-3 Computer Science and Engineering (only if entry term before Fall 2022)
+Required subjects:
+One programming skills subject:
+6.100A [6.0001]
+4/20
+6.100L [6.000L]
+One discrete math subject:
+6.1200 [6.042]
+Three foundation subjects:
+6.1010 [6.009]
+6.1210 [6.006]
+6.1910 [6.004]
+Four header subjects:
+6.1020 [6.031]
+One of
+6.1800 [6.033]
+One of
+6.1400 [6.045] 6.1220 [6.046]
+,
+6.4100 [6.034] 6.3900 [6.036]
+,
+Five elective subjects:
+Two from
+Three additional from
+AUS2
+list
+EECS
+list
+Additional constraints:
+At least two of your completed subjects must be from the
+At least one of your completed subjects must be from the
+CIM2
+II
+list
+list
+Notes:
+Starting in Fall 2023, the following subjects can be petitioned as substitutions for the 6.1800[6.033]
+systems header requirement:
+6.1810[6.039] Operating Systems Engineering (U, Fall)
+6.5830[6.830] Database Systems (G, Fall)
+6.5831[6.814] Database Systems (U, Fall)
+6.5660[6.858] Computer Systems Security (G, Spring)
+6.5840[6.824] Distributed Computer Systems Engineering (G, Spring)
+Note that none of these alternative subjects are CI-M, so you will need to satisfy the CI-M additional
+constraint with other EECS department CI-Ms.
+Instead of the original "introductory subject" and "6.UAT/6.UAR" requirements, you now get to choose two
+additional electives from the EECS list. The CIM2 list has been expanded to include subjects that can also
+satisfy the AUS2 requirement.
+6-4 Artificial Intelligence and Decision Making
+Required subjects:
+One programming skills subject:
+6.100A [6.0001]
+6.100L [6.000L]
+Three math subjects:
+6.1200 [6.042]
+One of
+One of
+,
+6.S084 18.C06 18.06
+6.3700 [6.041] 6.3800 [6.008] 18.05
+,
+,
+,
+Two foundation subjects:
+6.1010 [6.009]
+6.1210 [6.006]
+Five Center subjects:
+6.1220 [6.046]
+6.1400 [6.045]
+6.3000 [6.003]
+6.3100 [6.302]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3900 [6.036]
+6.3950 [6.404]
+6.4110 [6.038]
+6.4120 [6.804]
+6.4400 [6.837]
+6.4590 [6.805]
+6.7201 [6.215]
+6.7920
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+6.C35
+6.C571
+6.S041
+9.660
+Four elective subjects:
+Application_CIM
+One from
+AI+D_AUS
+Two additional from the
+list
+EECS
+list or a Math (course 18) requirement
+Additional constraints:
+At least two of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+list
+list
+list
+CIM2
+AI+D_SERC
+Data-centric
+Model-centric
+list
+Decision-centric
+list
+Computation-centric
+Human-centric
+list
+list
+Notes:
+If you choose a Math requirement as an elective, it must not have essentially similar content to the other
+subjects satisfying your 6-4 degree requirements.
+5/20
+6-4 Artificial Intelligence and Decision Making (only if entry term before Fall 2024)
+Required subjects:
+One programming skills subject:
+6.100A [6.0001]
+6.100L [6.000L]
+Three math subjects:
+6.1200 [6.042]
+One of
+One of
+,
+6.S084 18.C06 18.06
+6.3700 [6.041] 6.3800 [6.008] 18.05
+,
+,
+,
+Two foundation subjects:
+6.1010 [6.009]
+6.1210 [6.006]
+Five Center subjects:
+6.1220 [6.046]
+6.1400 [6.045]
+6.3000 [6.003]
+6.3100 [6.302]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3900 [6.036]
+6.3950 [6.404]
+6.4110 [6.038]
+6.4120 [6.804]
+6.4400 [6.837]
+6.4590 [6.805]
+6.7201 [6.215]
+6.7920
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+6.C35
+6.C571
+6.S041
+9.660
+Two communication-intensive subjects:
+One from
+One additional from
+Application_CIM
+CIM2
+list
+list
+Two elective subjects:
+One additional from the
+One additional from the
+Additional constraints:
+AI+D_AUS
+EECS
+or
+Application_CIM
+lists
+list or a Math (course 18) requirement
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+At least one of your completed subjects must be from the
+Notes:
+list
+list
+AI+D_SERC
+Data-centric
+Model-centric
+list
+Decision-centric
+list
+Computation-centric
+Human-centric
+list
+list
+If you choose a Math requirement as an elective, it must not have essentially similar content to the other
+subjects satisfying your 6-4 degree requirements.
+6-5 Electrical Engineering with Computing
+Required subjects:
+Four fundamental subjects:
+One of
+6.100A [6.0001] 6.100L [6.000L]
+,
+6.120A [6.042A] 6.1200 [6.042]
+,
+One of
+6.1210 [6.006]
+One of
+6.1903 6.1904
+,
+Two math subjects:
+One of
+One of
+,
+6.S084 18.C06 18.06
+6.3700 [6.041] 6.3800 [6.008] 18.05
+,
+,
+,
+Four system design subjects:
+6.1910 [6.004]
+6.2000 [6.002]
+6.3100 [6.302]
+6.9000 [6.010]
+Six elective subjects:
+EE Track
+Two from an
+Two additional from a different
+Two additional from
+EECS
+list
+EE Track
+Additional constraints:
+At least two of your completed subjects must be from the
+At least one of your completed subjects must be from the
+CIM2
+PLAB
+list
+list
+Notes:
+Students are welcome to petition custom EE Tracks, which may include non-EECS classes. Here are some
+illustrative examples:
+RF circuit design: two of 6.2300[6.013], 6.2080[6.300], 6.6020[6.776]
+Hardware Verification: 6.205[6.111], 6.S965(Fall 2024)
+Semiconductor process modeling: 6.2600[6.152] and either 6.3900[6.036] or 6.3720[6.401]
+Mechatronics: Many combinations make sense, but we recommend 6.221, and/or one of
+6/20
+y
+,
+/
+,
+6.3100/2.14/2.737, and/or 2.145/2.72/2.70, and/or one of 6.2222/6.6220, and/or one of
+2.12/2.017/6.4210.
+Students may also petition non-EECS classes for the EECS electives. Every petition is evaluated
+individually; these classes are not necessarily appropriate for every student. Remember that it's a good
+idea to submit a petition before you have registered for the class(es) in question.
+6-7 Computer Science and Molecular Biology
+Required subjects:
+Three Mathematics and Introductory subjects:
+6.100A [6.0001] 6.100L [6.000L] 6.1020 [6.031]
+,
+,
+One of
+6.120A [6.042A]
+6.C06
+Two Chemistry subjects:
+5.12
+5.601
+One Introductory Lab subject:
+One of
+7.002 7.003 20.109
+&
+,
+Three Computer Science Foundation subjects:
+6.1010 [6.009]
+6.1210 [6.006]
+One of
+6.3900 [6.036] 6.C01 7.C01
+,
+&
+Three Biological Science Fundation subjects:
+7.03
+One of
+7.06
+7.05 5.07
+,
+One Technical Communication subject:
+One of
+6.UAT 6.UAR 7.19
+,
+,
+One Computational Biology Elective subject:
+One from
+COMPBIOv2
+list
+Two Restricted Elective subjects:
+Two additional from the
+BIOREv2 AI+D_AUS
+,
+, or
+COMPBIOv2
+lists
+Notes:
+The prerequisites for 6.1210 can be satisfied in two different ways:
+take 6.100A (6 units) and 6.1200 (12 units), or
+take 6.100A (6 units) and 6.120A (6 units) and one of the following probability courses: 6.3700,
+6.3800, 18.05, or 18.600 (all 12 units). You can petition to use the required probability course as
+one of the two restricted electives, provided that the second restricted elective is from Course 7.
+6-7 Computer Science and Molecular Biology (only if entry term before Fall 2024)
+Required subjects:
+Two introductory subjects:
+6.100A [6.0001] 6.100B [6.0002] 6.1020 [6.031]
+&
+,
+One of
+6.1010 [6.009]
+One discrete math subject:
+6.1200 [6.042]
+Two CS foundation subjects:
+6.1210 [6.006]
+6.1220 [6.046]
+Two chemistry subjects:
+5.12
+One of
+5.601 5.602 20.110
+&
+,
+One introductory lab subject:
+20.109
+6.4880 [6.129]
+&
+7.002 10.7003
+7.002 7.003
+&
+Three Bio foundation subjects:
+7.03
+7.05
+7.06
+Two elective subjects:
+One from
+One from
+COMPBIO
+BIORE
+list
+list
+One communication-intensive subject:
+6.UAR
+6.UAT
+7 19
+7/20
+7.19
+9.12
+Notes:
+16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002
+6-9 Computation and Cognition
+Course 6-9, Computation and Cognition, is administered by the Department of Brain and Cognitive Sciences. You can
+find the current degree requirements at
+https://bcs.mit.edu/academic-program/course-6-9-degree-chart
+6-14 Computer Science, Economics, and Data Science
+Required subjects:
+Three math subjects:
+,
+,
+6.S084 18.06 18.C06
+6.3700 [6.041] 14.30 18.600
+,
+,
+One of
+One of
+6.1200 [6.042]
+Five computation and algorithms subjects:
+One of
+,
+6.100A [6.0001] 6.100L [6.000L]
+6.1010 [6.009] 6.100B [6.0002]
+,
+One of
+6.1210 [6.006]
+6.1220 [6.046]
+6.3900 [6.036]
+Three economics subjects:
+One of
+14.32
+One of
+14.01 14.03
+,
+14.05 14.18 14.33 [CIM]
+,
+,
+One computer science elective subject:
+15.053
+6.3260 [6.207]
+6.7201 [6.215]
+6.C571
+6.S041
+Three economics elective subjects:
+One from
+One from
+One additional from the
+ECONDS
+ECONTH
+list
+list
+ECONDS
+or
+ECONTH
+lists
+One communication-intensive subject:
+15.276
+6.UAR
+6.UAT
+Notes:
+If your primary major is 6-14, at most three of your economics subjects may count toward the eight-
+subject HASS requirement.
+16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002
+Masters of Engineering (6-1, 6-2, 6-3, 6-4, 6-5)
+Required subjects:
+Completed undergraduate degree program (6-1, 6-2, 6-3, 6-4, 6-5)
+Four additional graduate subjects:
+AAGS
+list
+four from
+You are allowed to petition for one out-of-department AAGS that complements your MEng program.
+Submit your petition prior to taking the class. These petitions, like all departmental petitions, are
+reviewed on a case-by-case basis and are not guaranteed to be approved.
+Two additional math restricted electives:
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+At most one from
+At most one from
+18.05 18.440 18.600 6.041 6.3700 [6.041] 6.436 6.7700 [6.436]
+18.200 18.200A 6.042 6.1200 [6.042]
+18.03 18.032 18.034 CC.1803 ES.1803
+,
+18.06 18.061 18.085 18.0851 18.700 18.C06 6.C06 6.S084
+,
+,
+18.065 18.0651
+,
+18.075 18.0751
+,
+18.086 18.0861
+,
+18.1001 18.1002 18.100A 18.100B 18.100C 18.100P 18.100Q
+,
+18.650 18.6501 IDS.014
+18.04 18.300 18.330 18.703 18.781 8.044
+,
+6.THM
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+Any of
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Masters Thesis (≥ 24 units):
+Professional perspective requirement:
+6.9830 [6.997]
+Additional constraints:
+8/20
+Three-subject concentration from one of the following areas. At least one of the concentration subjects
+must be an AAGS (marked with an asterisk).
+Applied Physics
+6.2200 [6.061]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2320
+6.2400 [6.051]
+6.2410 [6.157]
+Artificial Intelligence
+16.420*
+6.3720 [6.401]
+6.3722 [6.481]*
+6.3730 [6.419]
+6.3732 [6.439]*
+6.3952*
+6.4120 [6.804]
+6.4132 [6.877]*
+6.4200 [6.141]
+6.4210 [6.800]
+6.4212 [6.843]*
+6.4300
+6.4420 [6.807]
+6.5150 [6.945]*
+6.5151 [6.905]
+6.5160 [6.946]*
+BioEECS
+6.4812 [6.521]*
+6.4820 [6.022]
+6.4822 [6.522]*
+6.4830 [6.023]
+6.4832 [6.561]*
+6.4842 [6.524]*
+Circuits
+6.2040 [6.101]
+6.2050 [6.111]
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2090 [6.301]
+Communications
+6.3260 [6.207]
+6.6410 [6.445]*
+6.6420 [6.443]*
+6.7200 [6.255]
+6.7201 [6.215]
+6.7260 [6.268]*
+Computer Systems
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.1600 [6.053]
+6.1810 [6.039]
+6.1820 [6.808]
+6.1850 [6.052]
+6.1852
+6.1920 [6.175]
+Control
+6.3100 [6.302]
+6.3102 [6.320]*
+6.4210 [6.800]
+6.4212 [6.843]*
+6.7100 [6.241]*
+Graphics and HCI
+6.1040 [6.170]
+6.4300
+6.4400 [6.837]
+6.4420 [6.807]
+6.4510 [6.810]
+6.6510 [6.730]*
+6.6520 [6.731]*
+6.6530 [6.732]*
+6.C67*
+6.S966*
+6.S987*
+6.C51* 1.C51*
+&
+&
+6.C51* 10.C51
+&
+6.C51* 2.C51*
+&
+6.C51* 20.C51*
+&
+6.C51* 22.C51
+6.C51* 3.C51
+&
+6.C51* SCM.C51
+&
+6.S058
+6.S899*
+6.S954*
+6.S964*
+6.S966*
+6.S982*
+6.S988*
+9.660*
+6.8810 [6.556]*
+6.8830 [6.552]*
+6.8850*
+6.8880 [6.544]
+6.8890 [6.545]
+6.6220 [6.334]*
+6.6270 [6.332]
+6.6320 [6.632]*
+6.7800 [6.437]*
+6.7810 [6.438]*
+6.7830 [6.435]*
+6.7940 [6.231]*
+6.C57*
+6.C571
+6.5920 [6.846]*
+6.5930 [6.825]*
+6.5931 [6.812]
+6.5940*
+6.5950*
+6.5951
+6.5990 [6.886]
+6.6370 [6.637]*
+6.6400 [6.728]*
+6.6410 [6.445]*
+6.6420 [6.443]*
+6.6440 [6.644]
+6.6450 [6.645]
+6.8180 [6.883]
+6.8190 [6.884]
+6.8200 [6.484]*
+6.8210 [6.832]*
+6.8300 [6.869]*
+6.8420 [6.839]*
+6.8510 [6.835]*
+6.8610 [6.864]*
+6.8611 [6.806]
+6.8620 [6.345]*
+6.8630 [6.863]*
+6.8710 [6.874]*
+6.8711 [6.802]
+6.8850*
+6.C01 6.C011
+&
+6.C01 6.C511*
+&
+6.8710 [6.874]*
+6.8711 [6.802]
+6.8720 [6.589]*
+6.8721 [6.580]
+6.8800 [6.555]*
+6.8801 [6.026]
+6.5910 [6.375]*
+6.6000 [6.775]*
+6.6010 [6.374]*
+6.6020 [6.776]*
+6.6030 [6.333]
+6.7470 [6.441]*
+6.7480 [6.260]*
+6.7490 [6.261]
+6.7700 [6.436]*
+6.7710 [6.262]*
+6.7720 [6.265]*
+6.5690 [6.885]
+6.5810 [6.828]*
+6.5820 [6.829]*
+6.5830 [6.830]*
+6.5831 [6.814]
+6.5840 [6.824]*
+6.5850 [6.826]*
+6.5880 [6.887]
+6.5890 [6.888]
+6.5900 [6.823]*
+6.6280 [6.685]*
+6.6300 [6.630]*
+6.6310 [6.631]*
+6.6320 [6.632]*
+6.6330 [6.621]*
+6.6340 [6.634]*
+6.5420 [6.842]*
+6.5690 [6.885]
+6.5930 [6.825]*
+6.5931 [6.812]
+6.5940*
+6.7320 [6.338]*
+6.7800 [6.437]*
+6.7810 [6.438]*
+6.7830 [6.435]*
+6.7900 [6.867]*
+6.7910 [6.860]*
+6.7930 [6.871]*
+6.7960*
+6.8110 [6.834]*
+6.8160 [6.881]
+6.8170 [6.882]
+6.4860 [6.025]
+6.4861 [6.525]*
+6.5690 [6.885]
+6.7930 [6.871]*
+6.8700 [6.878]*
+6.8701 [6.047]
+6.2092 [6.321]*
+6.2222 [6.330]*
+6.2320
+6.3100 [6.302]
+6.3102 [6.320]*
+6.7410 [6.450]*
+6.7420 [6.267]*
+6.7430 [6.442]*
+6.7440 [6.452]*
+6.7450 [6.263]*
+6.7460 [6.440]*
+6.2050 [6.111]
+6.3260 [6.207]
+6.4590 [6.805]
+6.5060 [6.827]*
+6.5080 [6.836]*
+6.5081 [6.816]
+6.5110 [6.820]*
+6.5120 [6.822]*
+6.5610 [6.857]*
+6.5660 [6.858]*
+6.7110 [6.245]*
+6.7121*
+6.7920*
+6.7940 [6.231]*
+6.7950 [6.246]*
+6.8300 [6.869]*
+6.8320 [6.870]*
+6.8370 [6.865]*
+6.8371 [6.815]
+6.8410 [6.838]*
+6.8420 [6.839]*
+6.8480 [6.896]
+6.8510 [6.835]*
+6.8530 [6.859]*
+6.8580 [6.894]
+6.8590 [6.895]
+6.8620 [6.345]*
+6.C85*
+6.S058
+9/20
+Materials, Devices and Nano
+6.2320
+6.2530 [6.701]
+6.2532 [6.719]*
+6.6320 [6.632]*
+6.6331 [6.602]
+6.6400 [6.728]*
+6.6440 [6.644]
+6.6500 [6.720]*
+6.6510 [6.730]*
+6.6520 [6.731]*
+6.6530 [6.732]*
+6.6540 [6.735]
+6.6550 [6.736]
+6.6600 [6.781]*
+6.6630 [6.780]*
+Numerical Methods
+6.7200 [6.255]
+6.7201 [6.215]
+6.7210 [6.251]*
+6.7220 [6.252]*
+6.7230 [6.256]*
+6.7240 [6.254]*
+6.7300 [6.336]*
+6.7310 [6.337]*
+6.7320 [6.338]*
+6.7330 [6.339]*
+6.7380 [6.248]
+6.7390 [6.249]
+6.C25
+6.C57*
+6.C571
+6.S966*
+Signals and Systems
+6.3100 [6.302]
+6.3102 [6.320]*
+6.7000 [6.341]*
+6.7010 [6.344]*
+6.7020 [6.456]*
+Theoretical CS
+18.404
+18.435*
+2.111*
+6.5060 [6.827]*
+6.5210 [6.854]*
+6.5220 [6.856]*
+6.5230 [6.851]*
+6.7050 [6.347]
+6.7060 [6.348]
+6.7800 [6.437]*
+6.7810 [6.438]*
+6.8620 [6.345]*
+6.5240 [6.855]*
+6.5250 [6.852]*
+6.5310 [6.849]*
+6.5320 [6.850]*
+6.5340 [6.853]*
+6.5350 [6.847]*
+6.5370 [6.891]
+6.8800 [6.555]*
+6.8801 [6.026]
+6.8810 [6.556]*
+6.5380 [6.892]
+6.5390 [6.893]
+6.5400 [6.840]*
+6.5410 [6.841]*
+6.5420 [6.842]*
+6.5430 [6.845]*
+6.5480 [6.889]
+6.5490 [6.890]
+6.5620 [6.875]*
+6.5630 [6.876]*
+6.6410 [6.445]*
+8.370*
+Masters of Engineering (6-7)
+Required subjects:
+Completed undergraduate degree program (6-7)
+Four additional graduate subjects:
+two from
+two from
+BIO_AAGS
+BIOEECS_AAGS
+list
+list
+Two additional math restricted electives:
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+At most one from
+At most one from
+18.05 18.440 18.600 6.041 6.3700 [6.041] 6.436 6.7700 [6.436]
+18.200 18.200A 6.042 6.1200 [6.042]
+18.03 18.032 18.034 CC.1803 ES.1803
+,
+18.06 18.061 18.085 18.0851 18.700 18.C06 6.C06 6.S084
+,
+,
+18.065 18.0651
+,
+18.075 18.0751
+,
+18.086 18.0861
+,
+18.1001 18.1002 18.100A 18.100B 18.100C 18.100P 18.100Q
+,
+18.650 18.6501 IDS.014
+18.04 18.300 18.330 18.703 18.781 8.044
+,
+6.THM
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+At most one from
+Any of
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Masters Thesis (≥ 24 units):
+Professional perspective requirement:
+6.9830 [6.997]
+Masters of Engineering (6-14)
+Required subjects:
+Completed undergraduate degree program (6-14)
+Four additional graduate subjects:
+two from
+two from
+ECON_AAGS
+ECONEECS_AAGS
+Two additional econ math restricted electives:
+list
+list
+At most one from
+At most one from
+At most one from
+Any of
+,
+,
+,
+,
+18.650 6.008 6.3800 [6.008] IDS.014
+18.04 18.0751
+18.1001 18.1002
+,
+,
+,
+,
+18.0851 18.0861 18.200A 18.330 18.700 18.781
+,
+Masters Thesis (≥ 24 units):
+Professional perspective requirement:
+6.9830 [6.997]
+,
+6.THM
+Summary Table
+The following table shows the requirements satisfied by each subject for each of the Fall and Spring terms. A row is
+grey if the subject is not offered this academic year.
+Subject
+18.404
+6.1040 [6.170]
+6.1060 [6.172]
+Fall 2024
+Spring 2025
+AUS2
+CIM2
+DLAB2
+II
+AUS2
+CIM2
+DLAB2
+II
+X
+X
+X
+X
+X
+X
+X
+10/20
+X
+X
+X
+X
+6.1100 [6.035]
+6.1120 [6.818]
+6.1420 [6.054]
+6.1600 [6.053]
+6.1800 [6.033]
+6.1810 [6.039]
+6.1820 [6.808]
+6.1850 [6.052]
+6.1920 [6.175]
+6.2040 [6.101]
+6.2050 [6.111]
+X
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2080 [6.300]
+6.2090 [6.301]
+6.2092 [6.321]
+6.2200 [6.061]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2320
+6.2370 [6.161]
+6.2400 [6.051]
+6.2410 [6.157]
+6.2530 [6.701]
+6.2540 [6.015]
+6.2600 [6.152]
+6.3100 [6.302]
+6.3102 [6.320]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3730 [6.419]
+6.4120 [6.804]
+6.4200 [6.141]
+6.4210 [6.800]
+6.4300
+6.4400 [6.837]
+6.4420 [6.807]
+6.4510 [6.810]
+6.4530 [6.811]
+6.4550 [6.185]
+6.4570 [6.073]
+6.4590 [6.805]
+6.4830 [6.023]
+6.4860 [6.025]
+6.4880 [6.129]
+6.5081 [6.816]
+6.5151 [6.905]
+6.5831 [6.814]
+6.5931 [6.812]
+6.5951
+6.6331 [6.602]
+6.7120 [6.247]
+6.8371 [6.815]
+6 8420
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+11/20
+X
+X
+X
+X
+X
+X
+X
+X
+6.8420 [6.839]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8711 [6.802]
+6.8721 [6.580]
+6.8801 [6.026]
+6.9000 [6.010]
+6.9030 [6.163]
+6.C25
+6.C27
+6.C35
+6.C571
+6.S041
+6.S042
+6.S053
+6.S058
+6.S965
+6.UAR
+6.UAT
+Tracks
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+To satisfy a track requirement, you must complete two subjects from the same track. Tracks are associated with one
+of the three areas in the Department: AI+D, CS, or EE.
+[AI+D] Application_CIM or AI+D_AUS
+18.404
+6.3020 [6.187]
+6.3730 [6.419]
+6.4200 [6.141]
+6.4210 [6.800]
+6.4300
+6.5151 [6.905]
+6.5831 [6.814]
+6.5931 [6.812]
+6.7411 [6.405]
+6.8371 [6.815]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8711 [6.802]
+6.8801 [6.026]
+[AI+D] Centers and (Application_CIM or AI+D_AUS)
+6.S058
+6.S899
+6.4400 [6.837]
+6.4590 [6.805]
+6.7201 [6.215]
+6.7920
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+6.C35
+6.C571
+6.S041
+9.660
+6.S058
+6.S899
+6.8371 [6.815]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8711 [6.802]
+6.8801 [6.026]
+One of:
+6.1220 [6.046]
+6.1400 [6.045]
+6.3000 [6.003]
+6.3100 [6.302]
+6.3260 [6.207]
+and one of:
+18.404
+6.3020 [6.187]
+6.3730 [6.419]
+6.4200 [6.141]
+6.4210 [6.800]
+[CS,EE] Architecture
+6.1920 [6.175]
+6.2050 [6.111]
+6.2060 [6.115]
+6.5890 [6.888]
+6.5900 [6.823]
+6.3720 [6.401]
+6.3900 [6.036]
+6.3950 [6.404]
+6.4110 [6.038]
+6.4120 [6.804]
+6.4300
+6.5151 [6.905]
+6.5831 [6.814]
+6.5931 [6.812]
+6.7411 [6.405]
+6.5930 [6.825]
+6.5931 [6.812]
+6.5940
+6.5951
+At most one can be from 6.111, 6.2050, 6.115, 6.2060
+[CS] Computers and Society
+6.1850 [6.052]
+6.1852
+6.3950 [6.404]
+6.4590 [6.805]
+6.8530 [6.859]
+6.C35
+6.C85
+6.S041
+[CS] Human Computer Interaction
+6.1040 [6.170]
+6.4500
+6.4510 [6.810]
+6.4530 [6.811]
+6.4550 [6.185]
+6.8510 [6.835]
+6.8530 [6.859]
+6.C35
+6.C85
+[CS] Programming Principles and Tools
+12/20
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.5060 [6.827]
+[CS] Systems
+6.5080 [6.836]
+6.5081 [6.816]
+6.5110 [6.820]
+6.5120 [6.822]
+6.S057
+6.1600 [6.053]
+6.1810 [6.039]
+6.1820 [6.808]
+6.5610 [6.857]
+6.5660 [6.858]
+6.5810 [6.828]
+6.5820 [6.829]
+6.5830 [6.830]
+6.5831 [6.814]
+6.5840 [6.824]
+6.5850 [6.826]
+[CS] Theory
+18.404
+18.435
+2.111
+6.1220 [6.046]
+6.1400 [6.045]
+6.1420 [6.054]
+6.5060 [6.827]
+6.5210 [6.854]
+6.5220 [6.856]
+6.5230 [6.851]
+6.5240 [6.855]
+6.5250 [6.852]
+6.5310 [6.849]
+6.5320 [6.850]
+6.5340 [6.853]
+6.5350 [6.847]
+6.5370 [6.891]
+6.5380 [6.892]
+6.5390 [6.893]
+6.5400 [6.840]
+6.5410 [6.841]
+6.5420 [6.842]
+6.5430 [6.845]
+6.5480 [6.889]
+6.5490 [6.890]
+6.5620 [6.875]
+6.5630 [6.876]
+6.6410 [6.445]
+8.370
+[EE] Biomedical Systems
+6.4800 [6.020]
+and one of:
+6.4810 [6.021]
+6.4820 [6.022]
+6.4830 [6.023]
+6.4860 [6.025]
+[EE] Communications and Networks
+6.7411 [6.405]
+and one of:
+6.1800 [6.033]
+6.3000 [6.003]
+6.3010 [6.011]
+[EE] Devices, Circuits, and Systems
+One of:
+6.2040 [6.101]
+6.2080 [6.300]
+6.2090 [6.301]
+and one of:
+6.2040 [6.101]
+6.2050 [6.111]
+6.2060 [6.115]
+6.2080 [6.300]
+6.2090 [6.301]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2300 [6.013]
+6.2320
+6.2500 [6.012]
+[EE] Electromagnetics and Photonic Systems
+6.2210 [6.014]
+6.2300 [6.013]
+6.2320
+6.2370 [6.161]
+6.6320 [6.632]
+6.6331 [6.602]
+[EE] Embedded Systems
+6.1820 [6.808]
+6.2050 [6.111]
+6.2060 [6.115]
+6.4510 [6.810]
+[EE] Energy Systems
+6.2200 [6.061]
+and one of:
+6.2210 [6.014]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.7120 [6.247]
+[EE] Hardware Design
+6.1920 [6.175]
+6.2050 [6.111]
+6.2060 [6.115]
+6.6010 [6 374]
+13/20
+6.6010 [6.374]
+[EE] Hardware and Software
+6.1800 [6.033]
+and one of:
+18.404
+18.435
+2.111
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.1220 [6.046]
+6.1400 [6.045]
+6.1420 [6.054]
+6.1600 [6.053]
+6.1810 [6.039]
+6.1820 [6.808]
+6.1850 [6.052]
+6.1852
+6.3950 [6.404]
+6.4500
+6.4510 [6.810]
+6.4530 [6.811]
+6.4550 [6.185]
+6.4590 [6.805]
+6.5060 [6.827]
+6.5080 [6.836]
+6.5081 [6.816]
+6.5110 [6.820]
+6.5120 [6.822]
+6.5210 [6.854]
+6.5220 [6.856]
+6.5230 [6.851]
+6.5240 [6.855]
+6.5250 [6.852]
+6.5310 [6.849]
+6.5320 [6.850]
+6.5340 [6.853]
+6.5350 [6.847]
+6.5370 [6.891]
+6.5380 [6.892]
+6.5390 [6.893]
+6.5400 [6.840]
+6.5410 [6.841]
+6.5420 [6.842]
+6.5430 [6.845]
+6.5480 [6.889]
+6.5490 [6.890]
+6.5610 [6.857]
+6.5620 [6.875]
+6.5630 [6.876]
+6.5660 [6.858]
+6.5810 [6.828]
+6.5820 [6.829]
+6.5830 [6.830]
+6.5831 [6.814]
+6.5840 [6.824]
+6.5850 [6.826]
+6.6410 [6.445]
+6.8510 [6.835]
+6.8530 [6.859]
+6.C35
+6.C85
+6.S041
+6.S057
+8.370
+[EE] Nanoelectronics
+6.2500 [6.012]
+and one of:
+6.2540 [6.015]
+6.2600 [6.152]
+[EE] Quantum Systems Engineering
+6.2400 [6.051]
+6.2410 [6.157]
+[EE] Systems Science
+6.3000 [6.003]
+6.3010 [6.011]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3900 [6.036]
+6.4110 [6.038]
+6.4200 [6.141]
+6.4210 [6.800]
+6.4300
+6.7120 [6.247]
+6.7201 [6.215]
+6.7960
+&
+6.C01 6.C011
+6.C01 6.C511
+&
+6.C27
+6.C571
+6.S058
+Subject Lists
+Central subject: 6-4 Subjects in one of the five Centers
+6.1220 [6.046]
+6.1400 [6.045]
+6.3000 [6.003]
+6.3100 [6.302]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3900 [6.036]
+6.3950 [6.404]
+6.4110 [6.038]
+6.4120 [6.804]
+6.4400 [6.837]
+6.4590 [6.805]
+6.7201 [6.215]
+6.7920
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+6.C35
+6.C571
+6.S041
+9.660
+Data-centric: 6-4 Data-centric subjects
+6.3720 [6.401]
+6.3900 [6.036]
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+Model-centric: 6-4 Model-centric subjects
+6.3000 [6.003]
+6.3100 [6.302]
+6.4110 [6.038]
+6.4400 [6.837]
+6.7920
+Decision-centric: 6-4 Decision-centric subjects
+6.3100 [6.302]
+6.4110 [6.038]
+6.7201 [6.215]
+6.7920
+6.C571
+Computation-centric: 6-4 Computation-centric subjects
+6 1220 [
+]
+14/20
+6.1220 [6.046]
+6.1400 [6.045]
+6.4400 [6.837]
+6.7201 [6.215]
+6.C571
+Human-centric: 6-4 Human-centric subjects
+6.3260 [6.207]
+6.3950 [6.404]
+6.4120 [6.804]
+6.4590 [6.805]
+6.C35
+6.S041
+9.660
+AI+D_AUS: Advanced undergraduate subjects for 6-4 students. Also see the grad_AI+D_AUS list below.
+18.404
+6.3020 [6.187]
+6.3730 [6.419]
+6.4210 [6.800]
+6.4300
+6.5151 [6.905]
+6.5831 [6.814]
+6.5931 [6.812]
+6.7411 [6.405]
+6.8371 [6.815]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8711 [6.802]
+6.8801 [6.026]
+6.S058
+6.S899
+Application_CIM: CI-M for 6-4 students
+6.4200 [6.141]
+6.4210 [6.800]
+6.4300
+6.8611 [6.806]
+6.S058
+AUS2: Advanced undergraduate subject. Also see the grad_AUS2 list below. A subject provides an AUS2 experience
+if at least 40% of the grade is based on new advanced EECS technical material that is rigorously evaluated through
+examinations and/or problem sets. An AUS2 subject must be at least 12 units, and its prerequisites should include an
+EECS subject at least at the foundation level, but ideally header or center level. It may be dual-numbered with a
+graduate subject, but must have distinct requirements to ensure accessibility to the range of undergraduate students
+in the department.
+18.404
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.1420 [6.054]
+6.1600 [6.053]
+6.1810 [6.039]
+6.1820 [6.808]
+6.1920 [6.175]
+6.2040 [6.101]
+6.2050 [6.111]
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2080 [6.300]
+6.2090 [6.301]
+6.2200 [6.061]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2320
+6.2400 [6.051]
+6.2530 [6.701]
+6.3100 [6.302]
+6.3260 [6.207]
+6.3720 [6.401]
+6.3730 [6.419]
+6.4210 [6.800]
+6.4300
+6.4400 [6.837]
+6.4420 [6.807]
+6.4510 [6.810]
+6.4830 [6.023]
+6.4860 [6.025]
+6.5081 [6.816]
+6.5151 [6.905]
+6.5831 [6.814]
+6.5931 [6.812]
+6.5951
+6.6331 [6.602]
+6.7120 [6.247]
+6.7201 [6.215]
+6.8371 [6.815]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8711 [6.802]
+6.8721 [6.580]
+6.8801 [6.026]
+6.9000 [6.010]
+6.C01 6.C011
+&
+6.C25
+6.C27
+6.C571
+6.S058
+BIORE: Biology restricted electives
+1.018
+10.441
+11.134
+12.031
+20.230
+20.361
+5.08
+6.4710 [6.049]
+7.08
+7.093 7.094
+&
+7.20
+7.21
+7.23
+7.26
+7.27
+7.28
+7.29
+7.30
+7.31
+7.32
+7.37
+7.371
+7.45
+7.46
+7.49
+8.591
+9.09
+9.18
+HST.431
+HST.540
+BIOREv2: Biology restricted electives (for 6-7_2024)
+1.018
+10.441
+12.031
+20.110
+20.205
+20.230
+5.08
+6.4710 [6.049]
+7.08
+7.093 7.094
+&
+7.20
+7.21
+7.23
+7.24
+7.26
+7.27
+7.28
+7.29
+7.30
+7.31
+7.32
+7.33
+7.35
+7.37
+7.371
+7.45
+7.46
+7.49
+9.09
+9.17
+9.18
+9.26
+HST.540
+CIM2: EECS CI-M subjects
+6.1800 [6.033]
+6.1850 [6.052]
+6.2040 [6.101]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2370 [6.161]
+6.4210 [6.800]
+6.4300
+6.4590 [6.805]
+6.9030 [6.163]
+6.S058
+6.UAR
+6 UAT
+15/20
+6.2050 [6.111]
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2410 [6.157]
+6.2600 [6.152]
+6.4200 [6.141]
+6.4860 [6.025]
+6.4880 [6.129]
+6.8611 [6.806]
+6.UAT
+COMPBIO: Restricted electives in Computational Biology
+18.418
+6.4710 [6.049]
+6.8701 [6.047]
+6.8711 [6.802]
+7.093 7.094
+&
+HST.504
+COMPBIOv2: Restricted electives in Computational Biology (for 6-7_2024)
+1.088
+18.413
+6.4710 [6.049]
+6.8701 [6.047]
+7.093 7.094
+&
+7.32
+7.33
+CS12: CS subjects at levels 1 and 2
+6.1010 [6.009]
+6.1020 [6.031]
+6.1210 [6.006]
+6.1220 [6.046]
+6.1400 [6.045]
+6.1800 [6.033]
+6.4100 [6.034]
+DLAB2: Advanced departmental lab. A subject provides a DLAB2 experience if at least 40% of the grade in a 12-unit
+subject is based on laboratory assignments. A laboratory assignment involves a question that is answered through
+empirical investigation; it may include the design, construction, and testing of a physical or software artifact.
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1820 [6.808]
+6.1920 [6.175]
+6.2040 [6.101]
+6.2050 [6.111]
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2090 [6.301]
+6.2092 [6.321]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2320
+6.2370 [6.161]
+6.2410 [6.157]
+6.2540 [6.015]
+6.2600 [6.152]
+6.3100 [6.302]
+6.3102 [6.320]
+6.4200 [6.141]
+6.4300
+6.4400 [6.837]
+6.4420 [6.807]
+6.4550 [6.185]
+6.4570 [6.073]
+6.4860 [6.025]
+6.4880 [6.129]
+6.5081 [6.816]
+6.8420 [6.839]
+6.8611 [6.806]
+6.8701 [6.047]
+6.8801 [6.026]
+6.9000 [6.010]
+6.9030 [6.163]
+6.C35
+6.S058
+ECONDS: Economics electives in data science
+14.20
+14.27
+14.36
+14.38
+14.39
+14.390
+14.41
+14.42
+14.43
+14.44
+14.45
+14.64
+14.75
+14.76
+15.0201
+15.037
+15.780
+ECONTH: Economics electives in theory
+14.04
+14.12
+14.13
+14.16
+14.19
+14.26
+14.54
+15.039
+6.3260 [6.207]
+EECS: All subjects of at least 12 units that satisfy departmental undergraduate requirements in 6-1, 6-2, 6-3, 6-4, or
+6-5. Also see the grad_AUS, grad_AI+D_AUS, and grad_II lists below.
+18.03
+18.032
+18.05
+18.06
+18.404
+18.435
+18.600
+18.C06
+2.111
+6.100A [6.0001] 6.100B [6.0002]
+&
+6.1010 [6.009]
+6.1020 [6.031]
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.1200 [6.042]
+6.1210 [6.006]
+6.1220 [6.046]
+6 1400 [6 045]
+6.3000 [6.003]
+6.3010 [6.011]
+6.3020 [6.187]
+6.3100 [6.302]
+6.3102 [6.320]
+6.3260 [6.207]
+6.3400 [6.02]
+6.3700 [6.041]
+6.3720 [6.401]
+6.3730 [6.419]
+6.3800 [6.008]
+6.3900 [6.036]
+6.3950 [6.404]
+6.4100 [6.034]
+6.4110 [6.038]
+6.4120 [6.804]
+6.4200 [6.141]
+6.4210 [6.800]
+6 4300
+6.5380 [6.892]
+6.5390 [6.893]
+6.5400 [6.840]
+6.5410 [6.841]
+6.5420 [6.842]
+6.5430 [6.845]
+6.5480 [6.889]
+6.5490 [6.890]
+6.5610 [6.857]
+6.5620 [6.875]
+6.5630 [6.876]
+6.5660 [6.858]
+6.5810 [6.828]
+6.5820 [6.829]
+6.5830 [6.830]
+6.5831 [6.814]
+6.5840 [6.824]
+6.5850 [6.826]
+6 5890
+6.7830 [6.435]
+6.7900 [6.867]
+6.7910 [6.860]
+6.7920
+6.7930 [6.871]
+6.7940 [6.231]
+6.7960
+6.8200 [6.484]
+6.8210 [6.832]
+6.8300 [6.869]
+6.8370 [6.865]
+6.8371 [6.815]
+6.8420 [6.839]
+6.8510 [6.835]
+6.8530 [6.859]
+6.8611 [6.806]
+6.8620 [6.345]
+6.8701 [6.047]
+6.8710 [6 874]
+16/20
+6.8710 [6.874]
+6.8711 [6.802]
+6.8721 [6.580]
+6.8801 [6.026]
+6.8810 [6.556]
+6.8850
+6.9000 [6.010]
+6.9010 [6.08]
+6.9030 [6.163]
+6.9080 [6.01]
+6.9160 [6.901]
+6.C01 6.C011
+&
+6.C01 6.C511
+&
+6.C06
+6.C25
+6.C27
+6.C35
+6.C40
+6.C571
+6.C85
+6.S041
+6.S057
+6.S058
+6.S899
+6.S963
+6.S966
+6.UAR
+6.UAT
+8.370
+9.660
+CC.1803
+ES.1803
+6.1400 [6.045]
+6.1420 [6.054]
+6.1600 [6.053]
+6.1800 [6.033]
+6.1810 [6.039]
+6.1820 [6.808]
+6.1850 [6.052]
+6.1852
+6.1910 [6.004]
+6.1920 [6.175]
+6.2000 [6.002]
+6.2040 [6.101]
+6.2050 [6.111]
+6.2060 [6.115]
+6.2061 [6.1151]
+6.2080 [6.300]
+6.2090 [6.301]
+6.2092 [6.321]
+6.2200 [6.061]
+6.2210 [6.014]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2300 [6.013]
+6.2320
+6.2370 [6.161]
+6.2400 [6.051]
+6.2410 [6.157]
+6.2500 [6.012]
+6.2530 [6.701]
+6.2540 [6.015]
+6.2600 [6.152]
+6.4300
+6.4400 [6.837]
+6.4420 [6.807]
+6.4500
+6.4510 [6.810]
+6.4530 [6.811]
+6.4550 [6.185]
+6.4570 [6.073]
+6.4590 [6.805]
+6.4800 [6.020]
+6.4810 [6.021]
+6.4820 [6.022]
+6.4830 [6.023]
+6.4860 [6.025]
+6.4880 [6.129]
+6.4900 [6.03]
+6.5060 [6.827]
+6.5080 [6.836]
+6.5081 [6.816]
+6.5110 [6.820]
+6.5120 [6.822]
+6.5151 [6.905]
+6.5210 [6.854]
+6.5220 [6.856]
+6.5230 [6.851]
+6.5240 [6.855]
+6.5250 [6.852]
+6.5310 [6.849]
+6.5320 [6.850]
+6.5340 [6.853]
+6.5350 [6.847]
+6.5370 [6.891]
+6.5890 [6.888]
+6.5900 [6.823]
+6.5930 [6.825]
+6.5931 [6.812]
+6.5940
+6.5951
+6.6010 [6.374]
+6.6210 [6.640]
+6.6320 [6.632]
+6.6331 [6.602]
+6.6410 [6.445]
+6.7100 [6.241]
+6.7120 [6.247]
+6.7201 [6.215]
+6.7210 [6.251]
+6.7220 [6.252]
+6.7230 [6.256]
+6.7250 [6.485]
+6.7260 [6.268]
+6.7300 [6.336]
+6.7310 [6.337]
+6.7320 [6.338]
+6.7330 [6.339]
+6.7340 [6.335]
+6.7411 [6.405]
+6.7470 [6.441]
+6.7480 [6.260]
+6.7700 [6.436]
+6.7710 [6.262]
+6.7720 [6.265]
+6.7800 [6.437]
+6.7810 [6.438]
+EE12: EE subjects at levels 1 and 2
+6.2000 [6.002]
+6.2210 [6.014]
+6.2300 [6.013]
+6.2500 [6.012]
+6.3000 [6.003]
+6.3010 [6.011]
+6.4810 [6.021]
+6.6210 [6.640]
+EECS12: EECS subjects at levels 1 and 2
+6.1910 [6.004]
+6.3800 [6.008]
+6.3900 [6.036]
+6.C01 6.C011
+&
+AI+D_SERC: Social and Ethical Responsibilies of Computing
+6.3900 [6.036]
+6.3950 [6.404]
+6.4300
+6.4590 [6.805]
+6.8611 [6.806]
+6.C01 6.C011
+&
+6.C40
+6.S058
+II: Independent inquiry. Also see grad_II list below. A subject provides an II experience if at least 40% of the grade
+in a 12-unit subject depends on a single relatively open-ended project. The student should be involved in defining the
+project. Projects may be done singly or in groups; they may be analytical or empirical in nature. They should be
+supervised in the sense that at least one milestone (proposal, outline, presentation) is evaluated and the student
+given feedback before the final deadline.
+6.1040 [6.170]
+6.1060 [6.172]
+6.1100 [6.035]
+6.1120 [6.818]
+6.1420 [6.054]
+6.1820 [6.808]
+6.1850 [6.052]
+6.2040 [6.101]
+6.2050 [6.111]
+6.2061 [6.1151]
+6.2221 [6.1311]
+6.2370 [6.161]
+6.2410 [6.157]
+6.3730 [6.419]
+6.4120 [6.804]
+6.4200 [6.141]
+6.4210 [6.800]
+6.4300
+6.4420 [6.807]
+6.4510 [6.810]
+6.4530 [6.811]
+6.4590 [6.805]
+6.4880 [6.129]
+6.5151 [6.905]
+6.8611 [6.806]
+6.8701 [6.047]
+6.9000 [6.010]
+6.9030 [6.163]
+6.C01 6.C011
+&
+6.C25
+6.C35
+6.S041
+6.S058
+6.UAR
+PLAB: Project-Based Design Laboratory for 6-2 (new) and 6-5
+6.1100 [6.035]
+6.1820 [6.808]
+6.2040 [6.101]
+6.2220 [6.131]
+6.2221 [6.1311]
+6.2370 [6.161]
+6.4200 [6.141]
+6.4420 [6.807]
+6.4510 [6.810]
+17/20
+6.2050 [6.111]
+6.2060 [6.115]
+6.2410 [6.157]
+6.2600 [6.152]
+6.4550 [6.185]
+6.4860 [6.025]
+PROB: Probability grounding
+18.05
+18.600
+6.1200 [6.042]
+6.3700 [6.041]
+6.3800 [6.008]
+grad_AUS2: Graduate subjects that satisfy the AUS2 or EECS requirements
+16.420
+6.2092 [6.321]
+6.2532 [6.719]
+6.3102 [6.320]
+6.3722 [6.481]
+6.3732 [6.439]
+6.4212 [6.843]
+6.4812 [6.521]
+6.4822 [6.522]
+6.4832 [6.561]
+6.5110 [6.820]
+6.5120 [6.822]
+6.5210 [6.854]
+6.5230 [6.851]
+6.5250 [6.852]
+6.5310 [6.849]
+6.5320 [6.850]
+6.5340 [6.853]
+6.5400 [6.840]
+6.5410 [6.841]
+6.5610 [6.857]
+6.5620 [6.875]
+6.5660 [6.858]
+6.5690 [6.885]
+6.5810 [6.828]
+6.5820 [6.829]
+6.5830 [6.830]
+6.5840 [6.824]
+6.5850 [6.826]
+6.5900 [6.823]
+6.5910 [6.375]
+6.5930 [6.825]
+6.5940
+6.5950
+6.6000 [6.775]
+6.6010 [6.374]
+6.6020 [6.776]
+6.6210 [6.640]
+6.6220 [6.334]
+6.6310 [6.631]
+6.6320 [6.632]
+6.6330 [6.621]
+6.6340 [6.634]
+6.6400 [6.728]
+6.6410 [6.445]
+6.6420 [6.443]
+6.6440 [6.644]
+6.6500 [6.720]
+6.6510 [6.730]
+6.7000 [6.341]
+6.7010 [6.344]
+6.7100 [6.241]
+6.7121
+6.7200 [6.255]
+6.7210 [6.251]
+6.7220 [6.252]
+6.7300 [6.336]
+6.7310 [6.337]
+6.7320 [6.338]
+6.7420 [6.267]
+6.7700 [6.436]
+6.7710 [6.262]
+6.7720 [6.265]
+6.7800 [6.437]
+6.7810 [6.438]
+6.7900 [6.867]
+6.7910 [6.860]
+6.7930 [6.871]
+6.7940 [6.231]
+6.7960
+6.8110 [6.834]
+6.8200 [6.484]
+6.8210 [6.832]
+6.8300 [6.869]
+6.8370 [6.865]
+6.8410 [6.838]
+6.8420 [6.839]
+6.8510 [6.835]
+6.8530 [6.859]
+6.8610 [6.864]
+6.8620 [6.345]
+6.8630 [6.863]
+6.8710 [6.874]
+6.8720 [6.589]
+6.8800 [6.555]
+6.8850
+6.C01 6.C511
+&
+6.C57
+6.C85
+6.S899
+grad_AI+D_AUS: Graduate subjects that satisfy the AI+D_AUS or EECS requirements
+6.5340 [6.853]
+6.5940
+6.7100 [6.241]
+6.7210 [6.251]
+6.7220 [6.252]
+6.7230 [6.256]
+6.7250 [6.485]
+6.7260 [6.268]
+6.7300 [6.336]
+6.7310 [6.337]
+6.7320 [6.338]
+6.7330 [6.339]
+6.7340 [6.335]
+6.7470 [6.441]
+6.7480 [6.260]
+6.7700 [6.436]
+6.7710 [6.262]
+6.7720 [6.265]
+6.7800 [6.437]
+6.7810 [6.438]
+6.7830 [6.435]
+6.7900 [6.867]
+6.7910 [6.860]
+6.7920
+6.7930 [6.871]
+6.7940 [6.231]
+6.7960
+6.8200 [6.484]
+6.8210 [6.832]
+6.8300 [6.869]
+6.8370 [6.865]
+6.8510 [6.835]
+6.8620 [6.345]
+6.8710 [6.874]
+6.8810 [6.556]
+6.8850
+6.S966
+grad_II: Graduate subjects that satisfy the II additional constraint or EECS requirement
+6.1852
+6.3732 [6.439]
+6.4212 [6.843]
+6.5150 [6.945]
+6.5610 [6.857]
+6.5690 [6.885]
+6.7930 [6.871]
+6.8300 [6.869]
+6.8420 [6.839]
+6.8510 [6.835]
+6.8530 [6.859]
+6.8610 [6.864]
+6.8700 [6.878]
+6.C01 6.C511
+&
+6.C85
+6.S954
+6.S982
+AAGS: Approved advanced graduate subjects are graduate subjects that build on foundational knowledge to develop
+advanced (and often state-of-the-art) expertise in a field of interest.
+16.420
+18.435
+2.111
+6.1852
+6.2092 [6.321]
+6.2222 [6.330]
+6.2532 [6.719]
+6.3102 [6.320]
+6.3702 [6.431]
+6.3722 [6.481]
+6.3732 [6.439]
+6.3952
+6.4132 [6.877]
+6.4212 [6 843]
+6.5630 [6.876]
+6.5660 [6.858]
+6.5690 [6.885]
+6.5810 [6.828]
+6.5820 [6.829]
+6.5830 [6.830]
+6.5840 [6.824]
+6.5850 [6.826]
+6.5880 [6.887]
+6.5890 [6.888]
+6.5900 [6.823]
+6.5910 [6.375]
+6.5920 [6.846]
+6.7020 [6.456]
+6.7050 [6.347]
+6.7060 [6.348]
+6.7100 [6.241]
+6.7121
+6.7200 [6.255]
+6.7210 [6.251]
+6.7220 [6.252]
+6.7230 [6.256]
+6.7240 [6.254]
+6.7260 [6.268]
+6.7300 [6.336]
+6.7310 [6.337]
+6.8210 [6.832]
+6.8300 [6.869]
+6.8320 [6.870]
+6.8370 [6.865]
+6.8410 [6.838]
+6.8420 [6.839]
+6.8480 [6.896]
+6.8510 [6.835]
+6.8530 [6.859]
+6.8580 [6.894]
+6.8590 [6.895]
+6.8610 [6.864]
+6.8620 [6.345]
+18/20
+6.4212 [6.843]
+6.4812 [6.521]
+6.4822 [6.522]
+6.4832 [6.561]
+6.4842 [6.524]
+6.4861 [6.525]
+6.5060 [6.827]
+6.5080 [6.836]
+6.5110 [6.820]
+6.5120 [6.822]
+6.5150 [6.945]
+6.5160 [6.946]
+6.5210 [6.854]
+6.5220 [6.856]
+6.5230 [6.851]
+6.5240 [6.855]
+6.5250 [6.852]
+6.5310 [6.849]
+6.5320 [6.850]
+6.5340 [6.853]
+6.5350 [6.847]
+6.5370 [6.891]
+6.5380 [6.892]
+6.5390 [6.893]
+6.5400 [6.840]
+6.5410 [6.841]
+6.5420 [6.842]
+6.5430 [6.845]
+6.5480 [6.889]
+6.5490 [6.890]
+6.5610 [6.857]
+6.5620 [6.875]
+6.5930 [6.825]
+6.5940
+6.5950
+6.5990 [6.886]
+6.6000 [6.775]
+6.6010 [6.374]
+6.6020 [6.776]
+6.6030 [6.333]
+6.6220 [6.334]
+6.6270 [6.332]
+6.6280 [6.685]
+6.6300 [6.630]
+6.6310 [6.631]
+6.6320 [6.632]
+6.6330 [6.621]
+6.6340 [6.634]
+6.6370 [6.637]
+6.6400 [6.728]
+6.6410 [6.445]
+6.6420 [6.443]
+6.6440 [6.644]
+6.6450 [6.645]
+6.6500 [6.720]
+6.6510 [6.730]
+6.6520 [6.731]
+6.6530 [6.732]
+6.6540 [6.735]
+6.6550 [6.736]
+6.6600 [6.781]
+6.6630 [6.780]
+6.7000 [6.341]
+6.7010 [6.344]
+6.7320 [6.338]
+6.7330 [6.339]
+6.7340 [6.335]
+6.7380 [6.248]
+6.7410 [6.450]
+6.7420 [6.267]
+6.7430 [6.442]
+6.7440 [6.452]
+6.7450 [6.263]
+6.7460 [6.440]
+6.7470 [6.441]
+6.7480 [6.260]
+6.7490 [6.261]
+6.7700 [6.436]
+6.7710 [6.262]
+6.7720 [6.265]
+6.7800 [6.437]
+6.7810 [6.438]
+6.7830 [6.435]
+6.7900 [6.867]
+6.7910 [6.860]
+6.7920
+6.7930 [6.871]
+6.7940 [6.231]
+6.7950 [6.246]
+6.7960
+6.8110 [6.834]
+6.8160 [6.881]
+6.8170 [6.882]
+6.8180 [6.883]
+6.8190 [6.884]
+6.8200 [6.484]
+6.8630 [6.863]
+6.8700 [6.878]
+6.8710 [6.874]
+6.8720 [6.589]
+6.8800 [6.555]
+6.8810 [6.556]
+6.8830 [6.552]
+6.8850
+6.8880 [6.544]
+6.8890 [6.545]
+6.9350 [6.935]
+&
+6.C51 1.C51
+&
+6.C51 10.C51
+&
+6.C51 2.C51
+&
+6.C51 20.C51
+6.C51 22.C51
+&
+6.C51 3.C51
+&
+&
+6.C51 6.C511
+6.C51 7.C51
+&
+6.C51 SCM.C51
+&
+6.C57
+6.C67
+6.C85
+6.S899
+6.S954
+6.S964
+6.S966
+6.S982
+6.S987
+6.S988
+8.370
+9.660
+BIO_AAGS: Approved advanced graduate subjects in biology. (Comp Bio AAGS)
+1.881
+18.418
+6.8700 [6.878]
+6.8710 [6.874]
+7.58
+7.60
+7.62
+HST.504
+HST.508
+HST.538
+BIOEECS_AAGS: Approved advanced graduate subjects in EECS/BIO. Also see AAGS list above. (Bio/EECS AAGS)
+1.86
+1.87
+12.493
+20.445
+20.446
+20.554
+20.561
+20.630
+5.54
+6.8850
+7.411
+7.421
+7.430
+7.431
+7.432
+7.433
+7.434
+7.435
+7.436
+7.437
+7.438
+7.439
+7.440
+7.491
+7.492
+7.493
+7.494
+7.498
+7.499
+7.50
+7.51
+7.52
+7.540
+7.547
+7.55
+7.57
+7.58
+7.60
+7.61
+7.62
+7.63
+7.64
+7.66
+7.69
+7.70
+7.71
+7.72
+7.76
+7.77
+7.80
+7.81
+7.82
+7.89
+7.935
+7.95
+7.98
+7.S930
+7.S931
+7.S932
+7.S939
+8.181
+8.591
+9.301
+CSB.100
+ECON_AAGS: Approved advanced subjects in Economics
+14.121 14.122
+&
+14.131
+14.137
+14.150
+14.161
+14.200
+14.270
+14.380 14.381
+&
+14.387
+14.388
+14.390
+14.420
+14.444
+14.540
+14.640
+14.750
+14.760
+15.038
+9.822
+ECONEECS_AAGS: Approved advanced subjects in EECS/ECON
+6.3702 [6.431]
+6.3722 [6.481]
+6.3732 [6.439]
+6.4132 [6.877]
+6.5080 [6.836]
+6.5210 [6.854]
+6 5220
+6.5310 [6.849]
+6.5340 [6.853]
+6.5400 [6.840]
+6.5620 [6.875]
+6.6630 [6.780]
+6.7200 [6.255]
+6 7210
+6.7300 [6.336]
+6.7310 [6.337]
+6.7320 [6.338]
+6.7330 [6.339]
+6.7450 [6.263]
+6.7470 [6.441]
+6 7700
+6.7800 [6.437]
+6.7810 [6.438]
+6.7900 [6.867]
+6.7910 [6.860]
+6.7930 [6.871]
+6.7940 [6.231]
+6 8300
+19/20
+6.5220 [6.856]
+6.5230 [6.851]
+6.5250 [6.852]
+6.7210 [6.251]
+6.7240 [6.254]
+6.7260 [6.268]
+6.7700 [6.436]
+6.7710 [6.262]
+6.7720 [6.265]
+6.8300 [6.869]
+6.8610 [6.864]
+20/20

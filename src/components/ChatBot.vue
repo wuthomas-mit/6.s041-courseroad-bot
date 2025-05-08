@@ -50,7 +50,7 @@
                 <div v-if="message.sender === 'user'" class="user-avatar">
                   <v-icon small>mdi-account</v-icon>
                 </div>
-                <div class="message-text">{{ message.text }}</div>
+                <div class="message-text" v-html="formatMessage(message.text)"></div>
               </div>
               <div class="message-time">{{ formatTime(message.timestamp) }}</div>
             </div>
@@ -146,7 +146,7 @@ export default {
       isLoading: false,
       messages: [
         {
-          text: "Hi there! I'm your CourseRoad Assistant. How can I help you with your course planning?",
+          text: "Hi there! I'm your CruiseControl! How can I help you with your course planning?",
           sender: 'bot',
           timestamp: new Date()
         }
@@ -157,11 +157,11 @@ export default {
       showSuggestions: true,
       error: null,
       suggestedQuestions: [
-        'What classes should I take for CS major?',
+        'What classes should I take for 6-3?',
         'How many units do I need to graduate?',
         'What are HASS requirements?',
         'Tell me about my current courses',
-        'What prerequisites do I need for 6.046?'
+        'What prerequisites do I need for 6.1220?'
       ]
     };
   },
@@ -259,6 +259,29 @@ export default {
     
     formatTime(timestamp) {
       return moment(timestamp).format('h:mm A');
+    },
+    
+    formatMessage(text) {
+      if (!text) return '';
+      
+      // Handle section headers (all caps words followed by a line break)
+      let formattedText = text.replace(/^([A-Z][A-Z\s]+)$/gm, '<strong>$1</strong>');
+      
+      // Handle numbered lists with proper indentation
+      formattedText = formattedText.replace(/^(\d+\.)\s+(.+)$/gm, '<div class="list-item"><span class="list-number">$1</span> $2</div>');
+      
+      // Handle bullet points with proper indentation
+      formattedText = formattedText.replace(/^-\s+(.+)$/gm, '<div class="list-item"><span class="list-bullet">•</span> $1</div>');
+      
+      // Convert line breaks to <br> tags
+      formattedText = formattedText.replace(/\n/g, '<br>');
+      
+      // Preserve multiple spaces 
+      formattedText = formattedText.replace(/ {2,}/g, function(match) {
+        return '&nbsp;'.repeat(match.length);
+      });
+      
+      return formattedText;
     }
   },
   watch: {
@@ -288,7 +311,7 @@ export default {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  width: 350px;
+  width: 400px;
   z-index: 1000;
 }
 
@@ -305,7 +328,7 @@ export default {
 }
 
 .chat-messages {
-  height: 350px;
+  height: 400px;
   overflow-y: auto;
   padding: 16px;
   display: flex;
@@ -314,11 +337,11 @@ export default {
 }
 
 .message {
-  max-width: 80%;
-  padding: 8px 12px;
+  max-width: 85%;
+  padding: 10px 14px;
   border-radius: 12px;
-  margin-bottom: 20px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   position: relative;
 }
 
@@ -329,6 +352,7 @@ export default {
 }
 
 .bot-message {
+  max-width: 90%; /* Bot messages can be wider to accommodate formatted text */
   align-self: flex-start;
   background-color: var(--v-grey-lighten3) !important;
   margin-right: auto;
@@ -361,8 +385,50 @@ export default {
 .message-text {
   word-break: break-word;
   font-size: 14px;
-  line-height: 1.4;
-  padding: 0 4px;
+  line-height: 1.6;
+  padding: 8px;
+  white-space: pre-wrap;
+}
+
+/* Additional styling for formatted messages */
+.message-text strong {
+  font-weight: 600;
+}
+
+.message-text h3, 
+.message-text h4 {
+  margin: 10px 0 5px 0;
+  font-weight: 600;
+}
+
+.message-text ul, 
+.message-text ol {
+  padding-left: 20px;
+  margin: 5px 0;
+}
+
+.message-text p {
+  margin: 8px 0;
+}
+
+.message-text .list-item {
+  margin: 4px 0;
+  display: flex;
+  align-items: flex-start;
+}
+
+.message-text .list-number, 
+.message-text .list-bullet {
+  margin-right: 6px;
+  font-weight: 600;
+  color: var(--v-primary-base);
+}
+
+.message-text strong {
+  display: block;
+  margin: 12px 0 6px 0;
+  color: var(--v-primary-darken1);
+  font-size: 16px;
 }
 
 .user-message .message-text {

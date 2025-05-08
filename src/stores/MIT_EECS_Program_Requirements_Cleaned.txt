@@ -1,0 +1,104 @@
+
+MIT EECS Program Requirements Summary
+--------------------------------------
+
+Course 6-3: Computer Science and Engineering
+-------------------------------------------
+General Institute Requirements (GIRs):
+- Science: 6 subjects
+- HASS: 8 subjects (2 CI-H minimum; 6.3260[J] and 6.4590[J] may count)
+- REST: 2 subjects (6.1910 and 6.1200[J] allowed)
+- Laboratory: 1 subject (6.1010)
+- PE: Swim test + 4 PE courses
+- Total GIRs: 17 subjects
+
+Departmental Requirements:
+- Core CS: 6.100A or 6.100L, 6.1010, 6.1020, 6.1200[J], 6.1210, 6.1400[J] or 6.1220[J], 6.1800, 6.1903, 6.1910
+- Math/Stats: Choose 1 from 6.3700, 6.3800, 18.05, 18.06, or 18.C06[J]
+- Electives:
+  • 2 subjects from CS track
+  • 2 subjects from CS, AI+D, or EE track
+  • 1 additional Course 6 or 18 subject
+- At least 2 Advanced Undergraduate Subjects & 1 Independent Inquiry subject
+- Units in Major: 171–174
+- Unrestricted Electives: 48–60
+- Total Units Beyond GIRs: 183–186
+
+Course 6-4: Artificial Intelligence and Decision Making
+--------------------------------------------------------
+GIRs: Same as above, with REST via 6.1200[J] and 18.C06[J], and Lab via 6.1010
+
+Departmental Requirements:
+- Fundamentals: 6.100A or 6.100L, 6.1010, 6.1200[J], 6.1210, 18.C06[J] or 18.06
+- Math/Stats: Choose 1 from 6.3700, 6.3800, 18.05
+- Center Areas: Choose 5 total, at least 1 each from:
+  • Data-centric, Model-centric, Decision-centric, Computation-centric, Human-centric
+- CI-M: 1 from list (e.g. 6.4200[J], 6.4210, 6.8301, 6.8611), plus 1 additional CI-M
+- Electives:
+  • 2 Course 6 or 18 subjects
+  • 1 AI+D Advanced Undergraduate Subject
+  • 1 SERC-qualified subject
+- Units in Major: 171–180
+- Unrestricted Electives: 48
+- Total Units Beyond GIRs: 180–192
+
+Course 6-5: Electrical Engineering with Computing
+-------------------------------------------------
+GIRs: Similar structure; REST via 6.1910, 6.2000, 6.3700, or 18.05
+
+Departmental Requirements:
+- Fundamentals: 6.100A or 6.100L, 6.120A or 6.1200[J], 6.1210, 6.1903, 18.C06[J]
+- Math/Stats: Choose 1 from 6.3700, 6.3800, 18.05
+- System Design Centers: 6.1910, 6.2000, 6.3100
+- System Design Lab: 6.9000
+- Track Electives:
+  • 4 subjects total from 2 different EECS tracks
+  • 2 additional subjects from 6-3/6-4/6-5
+- Units in Major: 174–186
+- Total Units Beyond GIRs: 186–195
+
+Course 6-7: Computer Science and Molecular Biology
+--------------------------------------------------
+GIRs: REST via 5.12 and 6.C06[J]; Lab via 7.003[J] or 20.109
+
+Departmental Requirements:
+- Core: 6.100A or 6.100L, 6.120A, 6.C06[J], 5.12, 5.601
+- Intro Lab: Choose 7.002 + 7.003[J], or 20.109
+- CS Core: 6.1010, 6.1210, 6.3900 or 6.C01 + 7.C01
+- Biology Core: 7.03, 7.05, 7.06
+- Electives: 1 from Computational Biology, 1 from Technical Communication, 2 others
+- Units in Major: 174–189
+- Total Units Beyond GIRs: 186–198
+
+Course 6-9: Computation and Cognition
+-------------------------------------
+GIRs: REST can include 9.01, 6.1200[J], 6.2000, etc.; Lab required
+
+Departmental Requirements:
+- Core: 6.100A, 9.01, 18.06 or 18.C06[J]
+- Math/Stats: Choose 1 from 6.1200[J], 6.120A, 18.03; and 1 from probability options
+- EECS: 6.3900, 2 of 6.1010/6.1210/6.2000, 1 of 6.3000/6.3100/6.4110
+- BCS Subjects: 1 Brain System, 1 Comp & Cog, 1 Lab, 1 Advanced Project
+- Program Electives: 1 from long list
+- Units in Major: 150–174
+- Total Units Beyond GIRs: 180–198
+
+Course 6-14: Computer Science, Economics, and Data Science
+-----------------------------------------------------------
+GIRs: REST via 6.1200[J] and 18.06; Lab via 14.32
+
+Departmental Requirements:
+- Math: 18.06
+- CS Core: 6.100A, 6.1010 or 6.100B, 6.1200[J], 6.1210, 6.1220[J]
+- Econ Core: 14.01, 14.32, one probability course
+- Data Science: 6.3900
+- CI-M: Choose 2 from UAR, UAT, 15.276, 14.05/14.18/14.33/14.35
+- Electives:
+  • 1 CS elective
+  • 3 Econ electives (1 from each group)
+- Units in Major: 177–186
+- Total Units Beyond GIRs: 186
+
+--------------------------------------
+
+Note: Units from GIRs cannot be double-counted toward units beyond GIRs.
